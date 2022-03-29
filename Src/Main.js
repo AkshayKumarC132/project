@@ -21,4 +21,4 @@ console.log('\n Balance of Akshay is',xAmpcoin.getBalanceOfAddress(myWalletAddre
 
 //xAmpcoin.chain[1].transactions[0].amount =1;  // This is Used to Check Wheather Data is Tampper or Not 
 
-console.log('is Chain Valid:',xAmpcoin.isChainValid());
+console.log('is Chain Valid:', xAmpcoin.isChainValid());
